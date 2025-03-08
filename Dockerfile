@@ -1,21 +1,20 @@
-# Dockerfile
-FROM node:lts-alpine
 
-WORKDIR /app
+FROM node:lts-buster
 
-RUN apk update && \
-    apk add --no-cache \
-    ffmpeg \
-    imagemagick \
-    webp \
-    bash
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  rm -rf /var/lib/apt/lists/*
 
-COPY package*.json ./
+COPY package.json .
 
-RUN npm ci --production && npm install qrcode-terminal dotenv chalk
+RUN npm install && npm install qrcode-terminal npm install dotenv
 
 COPY . .
 
 EXPOSE 3000
 
-CMD ["pm2", "start", "index.js", "--name", "hans-xmd", "--watch"]
+CMD ["node", "index.js", "--server"]
