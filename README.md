@@ -1,7 +1,7 @@
-# 🚀 Hᴀɴs-Xᴍᴅ_ᴠ2  
+  # 🚀 Hᴀɴs-Xᴍᴅ_ᴠ2  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&width=500&lines=Welcome+to+Hᴀɴs-Xᴍᴅ_ᴠ2🚀;Created+by+ʜᴀɴsTz;Fork+Me+and+Enjoy!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&width=500&lines=Welcome+to+Hans-Xmd-V2🚀;Created+By+HansTz;Fork+Me+and+Enjoy!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,8 @@
 
 ## ✨ Features  
 ✔ **Advanced WhatsApp bot functionalities**  
-✔ **Fully customizable bug responses**  
+✔ **Very Fast Bot Performance**  
+✔ **Music Downloads**  
 ✔ **Lightweight and efficient codebase**  
 
 ---
@@ -32,12 +33,12 @@
 
 ## 📋 Deployment Options  
 
-### 🚀 YouTube Bot Hosting  
+### 🚀 YouTube How to Deploy On Bot Hosting  
 [![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1)
 
 ---
 
-### 🌍 Hosting Platforms  
+### 🌍 Hosting Platforms  Create An account Here
 
 #### **Bot Hosting**  
 [![Bot Hosting](https://img.shields.io/badge/Bot%20Hosting-Cloud-4285F4?style=for-the-badge&logo=google-cloud)](https://bot-hosting.net/?aff=1308000667230666802)
@@ -69,4 +70,12 @@
 #### **Forked By**  
 [![Forked By](https://img.shields.io/github/forks/Mrhanstz/HANS-XMD_V2?color=green&style=for-the-badge&logo=git)](https://github.com/Mrhanstz/HANS-XMD_V2/network/members)  
 
+---
+
+---
 🚀 *Your support keeps this project alive! Thank you for starring, forking, and sharing!*  
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&width=500&lines=Keep+Using+Hans-Xmd-V2🚀" alt="Typing SVG" />
+</p>
