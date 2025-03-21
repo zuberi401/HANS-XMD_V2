@@ -10,15 +10,12 @@
 
 ###UPDATES
 ---
-### 🎧 Music Downloader
----
-### 🖼️ Randoms anime image's
----
-### 😅 Fun stickers
----
-### 🤖 ChatBot
----
-### 🔗 Antilink Detention
+### 🎧 MUSIC DOWNLOADER
+### 🖼️ RANDOMS ANIME IMAGE'S
+### 😅 FUN STICKERS
+### 🤖 CHATBOT
+### 🔗 ANTILINK
+### *AND MORE COMMANDS*
 ---
 
 
