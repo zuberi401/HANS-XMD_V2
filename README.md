@@ -8,6 +8,7 @@
   <img src="https://files.catbox.moe/fhox3r.jpg" width="70%" alt="Main Graphic" />
 </p>
 
+---
 ###UPDATES
 ---
 ### 🎧 MUSIC DOWNLOADER
