@@ -17,8 +17,6 @@
 ✔ **Lightweight and efficient codebase**  
 ✅ **Antilink added**
 ✅ **Chatbot added**
-✅ **sticker Fun**
-✅ **Random anime* **others**
 ---
 
 ## 🚀 Get Started  
