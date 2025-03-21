@@ -8,13 +8,18 @@
   <img src="https://files.catbox.moe/fhox3r.jpg" width="70%" alt="Main Graphic" />
 </p>
 
-##UPDATES
-
-🎧 Music Downloader
-🖼️ Randoms anime image's
-😅 Fun stickers
-🤖 ChatBot
-🔗 Antilink Detention
+###UPDATES
+---
+### 🎧 Music Downloader
+---
+### 🖼️ Randoms anime image's
+---
+### 😅 Fun stickers
+---
+### 🤖 ChatBot
+---
+### 🔗 Antilink Detention
+---
 
 ## 🚀 Get Started  
 
