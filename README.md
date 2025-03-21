@@ -11,10 +11,10 @@
 ---
 
 ## ✨ Features  
-✔ **Advanced WhatsApp bot functionalities**
-✔ **Very Fast Bot Performance**
-✔ **Music Downloads**  
-✔ **Lightweight and efficient codebase**
+✔**Advanced WhatsApp bot functionalities**
+✔**Very Fast Bot Performance**
+✔**Music Downloads**  
+✔**Lightweight and efficient codebase**
 ---
 
 ## 🚀 Get Started  
