@@ -14,9 +14,7 @@
 ✔ **Advanced WhatsApp bot functionalities**
 ✔ **Very Fast Bot Performance**
 ✔ **Music Downloads**  
-✔ **Lightweight and efficient codebase**  
-✅ **Antilink added**
-✅ **Chatbot added**
+✔ **Lightweight and efficient codebase**
 ---
 
 ## 🚀 Get Started  
