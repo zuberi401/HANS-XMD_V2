@@ -8,14 +8,13 @@
   <img src="https://files.catbox.moe/fhox3r.jpg" width="70%" alt="Main Graphic" />
 </p>
 
----
+##UPDATES
 
-## ✨ Features  
-✔**Advanced WhatsApp bot functionalities**
-✔**Very Fast Bot Performance**
-✔**Music Downloads**  
-✔**Lightweight and efficient codebase**
----
+🎧 Music Downloader
+🖼️ Randoms anime image's
+😅 Fun stickers
+🤖 ChatBot
+🔗 Antilink Detention
 
 ## 🚀 Get Started  
 
