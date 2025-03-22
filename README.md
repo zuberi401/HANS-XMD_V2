@@ -9,15 +9,18 @@
 </p>
 
 ---
-
-## ✨ Features  
-✔ **Advanced WhatsApp bot functionalities**  
-✔ **Very Fast Bot Performance**  
-✔ **Music Downloads**  
-✔ **Lightweight and efficient codebase**  
-
+###UPDATES
+---
+### 🎧 MUSIC DOWNLOADER
+### 🖼️ RANDOMS ANIME IMAGE'S
+### 😅 FUN STICKERS
+### 🤖 CHATBOT
+### 🔗 ANTILINK
+### *AND MORE COMMANDS*
 ---
 
+
+---
 ## 🚀 Get Started  
 
 ### 1️⃣ Fork the Repo  
