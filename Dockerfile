@@ -11,7 +11,8 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install && npm install qrcode-terminal
+RUN npm install && npm install qrcode-terminal && npm install google-tts-api unlimited-ai axios fs
+
 
 COPY . .
 
