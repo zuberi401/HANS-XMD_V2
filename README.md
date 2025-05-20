@@ -1,4 +1,4 @@
-  # 🚀 Hᴀɴs-Xᴍᴅ_WHATSAPP BOT 
+  # 🚀 Hᴀɴs-Xᴍᴅ 🔥
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&width=500&lines=Welcome+to+Hans-Xmd-V2🚀;Created+By+HansTz;Fork+Me+and+Enjoy!" alt="Typing SVG" />
@@ -30,7 +30,7 @@
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=download)](https://github.com/Mrhanstz/HANS-XMD_V2/archive/refs/heads/main.zip)
 
 ### 3️⃣ Get Your Session ID  
-[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-xmd-site.vercel.app)
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-xmd-pair-v3.onrender.com)
 
 ---
 
