@@ -27,18 +27,26 @@
 
 ---
 
-### 3️⃣ Download the ZIP File  
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=download)](https://github.com/Mrhanstz/HANS-XMD_V2/archive/refs/heads/main.zip)
-
-### 4️⃣ Get Your Session ID Pair
+### 3️⃣ Get Your Session ID Pair
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-pair.onrender.com/pair)
 
 ---
 
-### 5️⃣ Get Your Session ID QR
+### 4️⃣ Get Your Session ID QR
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-pair.onrender.com/qr)
 
 ---
+
+### 5️⃣ Download the ZIP File  
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=download)](https://github.com/Mrhanstz/HANS-XMD_V2/archive/refs/heads/main.zip)
+
+### BEST PERFORMANCE 
+
+`RENDER`
+
+`KATABUMP`
+
+`BOT HOSTING`
 
 ## 📋 Deployment Options  
 
