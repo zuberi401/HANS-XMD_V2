@@ -1,10 +1,6 @@
   # 🚀 Hᴀɴs-Xᴍᴅ 🔥
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&width=500&lines=Welcome+to+Hans-Xmd-V2🚀;Created+By+HansTz;Fork+Me+and+Enjoy!" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://files.catbox.moe/9sd379.jpg" width="70%" alt="Main Graphic" />
 </p>
 
@@ -78,7 +74,3 @@
 ---
 🚀 *Your support keeps this project alive! Thank you for starring, forking, and sharing!*  
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&width=500&lines=Keep+Using+Hans-Xmd-V2🚀" alt="Typing SVG" />
-</p>
