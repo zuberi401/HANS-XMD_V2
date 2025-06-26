@@ -22,15 +22,20 @@
 ### 1️⃣ Fork the Repo  
 [![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Mrhanstz/HANS-XMD_V2/fork)
 
-### 2️⃣ Download the ZIP File  
+### 2️⃣ Session ID Site
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-pair.onrender.com/)
+
+---
+
+### 3️⃣ Download the ZIP File  
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=download)](https://github.com/Mrhanstz/HANS-XMD_V2/archive/refs/heads/main.zip)
 
-### 3️⃣ Get Your Session ID Pair
+### 4️⃣ Get Your Session ID Pair
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-pair.onrender.com/pair)
 
 ---
 
-### 4️⃣ Get Your Session ID QR
+### 5️⃣ Get Your Session ID QR
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-pair.onrender.com/qr)
 
 ---
