@@ -1,0 +1,21 @@
+{
+  "bot-name": "HANS-XMD",
+  "description": "HANS-XMD_BOT BY HANS_TECH",
+  "logo": "https://files.catbox.moe/zam9rp.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://hanstech-pair.onrender.com",
+  "owner-verification": "kinghanstz@gmail.com",
+  
+  "env": {
+    "SESSION_ID": {
+      "description": "Put yorr SESSION_ID here. Make sure it starts with Byte;;;, or get session id from here, https://hanstech-pair.onrender.com",
+      "value": "",
+      "required": true
+    },
+    "OWNER_NUMBER": {
+      "description": "OWNER_NUMBER with country code (255760774888)",
+      "value": "255760XXXXX",
+      "required": true
+    }
+  }
+}
