@@ -1,11 +1,7 @@
-  # 🚀 Hᴀɴs-Xᴍᴅ_ᴠ2  
+  # 🚀 Hᴀɴs-Xᴍᴅ 🔥
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&width=500&lines=Welcome+to+Hans-Xmd-V2🚀;Created+By+HansTz;Fork+Me+and+Enjoy!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://files.catbox.moe/fhox3r.jpg" width="70%" alt="Main Graphic" />
+  <img src="https://files.catbox.moe/9sd379.jpg" width="70%" alt="Main Graphic" />
 </p>
 
 ---
@@ -26,13 +22,31 @@
 ### 1️⃣ Fork the Repo  
 [![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Mrhanstz/HANS-XMD_V2/fork)
 
-### 2️⃣ Download the ZIP File  
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=download)](https://github.com/Mrhanstz/HANS-XMD_V2/archive/refs/heads/main.zip)
-
-### 3️⃣ Get Your Session ID  
-[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](Nothing)
+### 2️⃣ Session ID Site
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hanstech-pair.onrender.com/)
 
 ---
+
+### 3️⃣ Get Your Session ID Pair
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hanstech-pair.onrender.com/pair)
+
+---
+
+### 4️⃣ Get Your Session ID QR
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hanstech-pair.onrender.com/qr)
+
+---
+
+### 5️⃣ Download the ZIP File  
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=download)](https://github.com/Mrhanstz/HANS-XMD_V2/archive/refs/heads/main.zip)
+
+### BEST PERFORMANCE 
+
+`RENDER`
+
+`KATABUMP`
+
+`BOT HOSTING`
 
 ## 📋 Deployment Options  
 
@@ -78,7 +92,3 @@
 ---
 🚀 *Your support keeps this project alive! Thank you for starring, forking, and sharing!*  
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&width=500&lines=Keep+Using+Hans-Xmd-V2🚀" alt="Typing SVG" />
-</p>

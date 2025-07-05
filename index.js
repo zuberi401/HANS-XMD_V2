@@ -4,12 +4,10 @@
 //GitHub: @Mrhanstz
 //WhatsApp: https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
 //want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
-
 const {
    spawn
 } = require('child_process')
 const path = require('path')
-
 function start() {
    let args = [path.join(__dirname, 'main.js'), ...process.argv.slice(2)]
    console.log([process.argv[0], ...args].join('\n'))

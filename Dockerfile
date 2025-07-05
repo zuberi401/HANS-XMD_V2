@@ -1,4 +1,3 @@
-
 FROM node:lts-buster
 
 RUN apt-get update && \
@@ -11,10 +10,11 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install && npm install qrcode-terminal
+RUN npm install && npm install -g qrcode-terminal pm2
 
 COPY . .
 
 EXPOSE 3000
 
-CMD ["node", "index.js", "--server"]
+
+CMD ["pm2-runtime", "start", "index.js"]

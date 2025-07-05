@@ -1,5 +1,5 @@
 const axios = require('axios');
-const hans = "https://hanstz-tech.vercel.app/api/🚀";
+const hans = "https://hans-xmdv2.vercel.app/api/🔥";
 axios.get(hans)
     .then(response => {
         console.log("\x1b[32m✅ Successfully loaded script From HansTz Sever.\x1b[0m");
